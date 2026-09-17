@@ -1,7 +1,6 @@
-{
-  "name": "مدیریت قیمت فروشگاه",
-  "short_name": "مدیریت قیمت",
-  "lang": "fa",
+"name": "Price List",
+"short_name": "Price List",
+"lang": "fa",
   "dir": "rtl",
   "start_url": "./",
   "display": "standalone",
