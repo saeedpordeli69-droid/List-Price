@@ -1,4 +1,4 @@
-const CACHE="price-manager-v3";
+const CACHE="price-manager-v4";
 
 self.addEventListener("install",e=>
   e.waitUntil(
