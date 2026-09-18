@@ -1,5 +1,6 @@
 "name": "Price List",
 "short_name": "Price List",
+"id": "./",
 "lang": "fa",
   "dir": "rtl",
   "start_url": "./",
